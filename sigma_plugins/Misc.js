@@ -322,7 +322,7 @@ const vcard = 'BEGIN:VCARD\n' +
              var author;
              if (text) {
                 let anu = text.split("|");
-                 pack = anu[0] !== "" ? anu[0] : citel.pushName + '♥️';
+                 pack = anu[0] !== "" ? anu[0] : citel.pushName + '';
                  author = anu[1] !== "" ? anu[1] : name.packname;
              } else {
                  pack = citel.pushName;
@@ -330,8 +330,8 @@ const vcard = 'BEGIN:VCARD\n' +
              }
                  let media = await citel.quoted.download();
                 let sticker = new Sticker(media, {
-                    pack: pack,
-                    author: author,
+                    pack: "\t ㅤㅤ  🔮ʜᴀɴᴅᴄʀᴀғᴛᴇᴅ ʙʏ :\n\n━『 𓄂⍣⃝🇳ᥱꪎꪎᥱʀ ꢺᴀ⃖͢ϻᴀቾ 🕊️ 』━",
+                    author: "",
                     type:  StickerTypes.FULL,
                     categories: ["🤩", "🎉"], 
                     id: "12345", 
@@ -553,8 +553,8 @@ const buffer = await sticker.toBuffer();
  
 
  Module_Exports({
-             kingcmd: "sigmabot",
-             shortcut : ["chatbot","sbot","sigmachatbot"],
+             kingcmd: "chatbot",
+             shortcut : ["cbot","nbot","nexxerchatbot"],
              infocmd: "activates and deactivates chatbot.\nuse buttons to toggle.",
              kingclass: "misc",
              kingpath: __filename
@@ -599,7 +599,7 @@ const buffer = await sticker.toBuffer();
          },
          async(Void, citel, text) => {
              try {
-                 if (!text) return citel.reply(`Send text to be encoded.\nEx: ${prefix}ebinary hi My I am Maher Zubair`);
+                 if (!text) return citel.reply(`Send text to be encoded.\nEx: ${prefix}ebinary hi My I am Nexxer Sama`);
  
                  let textt = text || citel.quoted.text
                  let eb = await eBinary(textt);
@@ -619,7 +619,7 @@ const buffer = await sticker.toBuffer();
          },
          async(Void, citel, text) => {
              try {
-                 if (!text) return citel.reply(`Send text to be Decoded.\nEx: ${prefix}dbinary hi My I am Maher Zubair`);
+                 if (!text) return citel.reply(`Send text to be Decoded.\nEx: ${prefix}dbinary hi My I am Nexxer Sama`);
                  let eb = await dBinary(text);
                  citel.reply(eb);
              } catch (e) {
