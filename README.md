@@ -38,7 +38,7 @@
 1. ***Get [SESSION-ID](https://replit.com/@SIGMA-Zubi/SIGMA-MD-QR?v=1) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 
 ## Heroku Deployment Method
-2.  ***Deploy on [Heroku]([https://dashboard.heroku.com/new?template=https://github.com/Nexxer01/SIGMA-MD]())***
+2.  ***Deploy on [Heroku]([https://dashboard.heroku.com/new?template=https://github.com/Nexxer01/SIGMA-MD])***
 ## Koyeb Deployment Method
 
 3. 
