@@ -1,5 +1,5 @@
 FROM quay.io/maherzubair/sigma-md:beta
-RUN git clone https://github.com/Nexxer777/SIGMA-MD /root/Maher-Zubair/SIGMA-MD
+RUN git clone https://github.com/Nexxer777/NEXXER-MD /root/Maher-Zubair/NEXXER-MD
 WORKDIR /root/Maher-Zubair/SIGMA-MD/
 RUN npm install npm@latest
 RUN npm install
