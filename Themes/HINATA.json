@@ -1,0 +1,61 @@
+{
+    "__JSON__": true,
+    "AUTHOR": "Nexxer Sama",
+    "theme": "Hinata Hyuga",
+    "LANGUAGE": "English",
+    "LANGCODE": "en",
+    "STRINGS": {
+        "updater": { 
+            "UPDATE": "*_Your bot is Already up-to-date_*",
+            "NEW_UPDATE": "*it's time to update the bot!*\n*Changes:*\n",
+            "UPDATED_LOCAL": "*Updated Successfully !*"
+        },
+        "global": {
+            "botName": "Powered by : 𝚴ᥱꪎꪎᥱʀ ꢺᴀ⃖͢ϻᴀቾ",
+            "body": "whatsapp Bot",
+            "greet2" : "Thanks To Nexxer Sama",
+            "pic1": "https://wallpapercave.com/uwp/uwp4159864.jpeg",
+            "pic2": "https://wallpapercave.com/uwp/uwp4159862.jpeg",
+            "pic3": "https://wallpapercave.com/uwp/uwp4159861.jpeg",
+            "pic4": "https://wallpapercave.com/uwp/uwp4159860.jpeg",
+            "pic5": "https://wallpapercave.com/uwp/uwp4159859.jpeg",
+            "pic6": "https://wallpapercave.com/uwp/uwp4159857.jpeg",
+            "pic7": "https://wallpapercave.com/uwp/uwp4159856.jpeg",
+            "pic8": "https://wallpapercave.com/uwp/uwp4159855.jpeg",
+            "pic9": "https://wallpapercave.com/uwp/uwp4159869.jpeg",
+            "pic10": "https://wallpapercave.com/uwp/uwp4159868.jpeg",
+            "greet" : "Dattebayo",
+            "dotbody" : "I am Alive.",
+            "emojii" : "🐧",
+            "promote": "Admin Role Given to Genin",
+            "pmallow": "*Hi,This is Hinata Hyuga\n You have been blocked for spamming.",
+            "pmwarn": "Hi* \nPlease don't spam else I'll block you for spamming.\nJoin Nexxer's Group:\n https://chat.whatsapp.com/DF3fnIHbFxWEY3bqUAf7Is\n*⤹★ᴘᴏᴡᴇʀᴇᴅ ʙʏ★⤸ ʜɪɴᴀᴛᴀ ᴹᴰ*",
+            "permited": "Hi\n\nNow You are permitted by my owner to pm now.\n*⤹★ᴘᴏᴡᴇʀᴇᴅ ʙʏ★⤸ ʜɪɴᴀᴛᴀ ᴹᴰ*", 
+            "revoked" : "*Hi*\nYour pm permit permission has been revoked now.\n*⤹★ᴘᴏᴡᴇʀᴇᴅ ʙʏ★⤸ ʜɪɴᴀᴛᴀ ᴹᴰ*",
+            "demote": "Admin Role Taken back",
+            "antlink": "Link Detected.\n*_Good Bye Rouge Ninga_*",
+            "session": "*This is your session.json,keep it safe*\n*_Now Upload This json file in Your Forked Repo_*\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*⤹★ᴘᴏᴡᴇʀᴇᴅ ʙʏ★⤸ ʜɪɴᴀᴛᴀ ᴹᴰ*",
+            "mention": " Please mention My Owner",
+            "title": "Hɪɴᴀᴛᴀ  ʜʏᴜɢᴀ",
+            "theme": "Hinata",
+            "footer": "𝚴ᥱꪎꪎᥱʀ ꢺᴀ⃖͢ϻᴀቾ",
+            "by": "ᴍᴏᴅɪғɪᴇᴅ ʙʏ : 𝚴ᥱꪎꪎᥱʀ ꢺᴀ⃖͢ϻᴀቾ 𓆩×͜×𓆪ꪾ",
+            "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+            "success": "Done ✓",
+            "dot": "Hi, Did you mean *-help?*\n just.. don't bother me while I'm watching anime!!",
+            "couple_male": "*I'm pretty sure I can't live without being helped!*",
+            "couple_female": "*I'm pretty sure I can't live without being helped!*",
+            "admin": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ɢʀᴏᴜᴘ ᴀᴅᴍɪɴ!",
+            "botAdmin": "ᴘʟᴇᴀsᴇ ᴘʀᴏᴠɪᴅᴇ ᴍᴇ ᴀᴅᴍɪɴ ʀᴏʟᴇ.!",
+            "owner": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ɴᴇxxᴇʀ!",
+            "group": "ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ɪs ᴏɴʟʏ ғᴏʀ ɢʀᴏᴜᴘ!",
+            "private": "ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ɪs ᴏɴʟʏ ғᴏʀ ɴᴇxxᴇʀ!",
+            "bot": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ɴᴇxxᴇʀ!",
+            "wait": "ᴘʀᴏᴄᴇssɪɴɢ ʏᴏᴜʀ ʀᴇᴏ̨ᴜᴇsᴛ"
+        },
+        "error": {
+            "text": "*_You Idiot tried To Edit ME_*\nNow go get this Error fixed*"
+        }
+    }
+  }
+  
