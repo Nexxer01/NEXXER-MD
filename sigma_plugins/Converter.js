@@ -54,7 +54,7 @@ Module_Exports({
              
             })
             
-  } else return citel.reply ("```Please, Reply To A Non Animated Sticker```")
+  } else return citel.reply ("```Reply To A Non Animated Sticker```")
         }
     )
 //---------------------------------------------------------------------------
@@ -129,8 +129,8 @@ let url = `https://raganork-api.onrender.com/api/attp?text=${text}&apikey=with_l
 let media  = await getBuffer(url)
 
                 let sticker = new Sticker(media, {
-                    pack: name.packname, 
-                    author: name.author, 
+                    pack: "\t ㅤㅤ  🔮ʜᴀɴᴅᴄʀᴀғᴛᴇᴅ ʙʏ :\n\n━『 𓄂⍣⃝🇳ᥱꪎꪎᥱʀ ꢺᴀ⃖͢ϻᴀቾ 🕊️ 』━", 
+                    author: "", 
                     type: StickerTypes.FULL,
                     categories: ["🤩", "🎉"], 
                     id: "12345", 
@@ -178,8 +178,8 @@ if(mime =="videoMessage")
 
 
                 let sticker = new Sticker(media, {
-                    pack: pack, // The pack name
-                    author: author, // The author name
+                    pack: "\t ㅤㅤ  🔮ʜᴀɴᴅᴄʀᴀғᴛᴇᴅ ʙʏ :\n\n━『 𓄂⍣⃝🇳ᥱꪎꪎᥱʀ ꢺᴀ⃖͢ϻᴀቾ 🕊️ 』━", // The pack name
+                    author: "", // The author name
                     type: StickerTypes.FULL ,
                     categories: ["🤩", "🎉"], // The sticker kingclass
                     id: "12345", // The sticker id
@@ -210,8 +210,8 @@ kingpath: __filename,
                 let media = await citel.quoted.download();
                 //citel.reply("*Processing Your request*");
                 let sticker = new Sticker(media, {
-                    pack: pack, // The pack name
-                    author: author, // The author name
+                    pack: "\t ㅤㅤ  🔮ʜᴀɴᴅᴄʀᴀғᴛᴇᴅ ʙʏ :\n\n━『 𓄂⍣⃝🇳ᥱꪎꪎᥱʀ ꢺᴀ⃖͢ϻᴀቾ 🕊️ 』━", // The pack name
+                    author: "", // The author name
                     type: StickerTypes.CIRCLE ,
                     categories: ["🤩", "🎉"], // The sticker kingclass
                     id: "12345", // The sticker id
@@ -242,8 +242,8 @@ kingpath: __filename,
                 let media = await citel.quoted.download();
                 //citel.reply("*Processing Your request*");
                 let sticker = new Sticker(media, {
-                    pack: pack, // The pack name
-                    author: author, // The author name
+                    pack: "\t ㅤㅤ  🔮ʜᴀɴᴅᴄʀᴀғᴛᴇᴅ ʙʏ :\n\n━『 𓄂⍣⃝🇳ᥱꪎꪎᥱʀ ꢺᴀ⃖͢ϻᴀቾ 🕊️ 』━", // The pack name
+                    author: "", // The author name
                     type: StickerTypes.CROPPED,
                     categories: ["🤩", "🎉"], // The sticker kingclass
                     id: "12345", // The sticker id
@@ -274,8 +274,8 @@ kingpath: __filename,
                 let media = await citel.quoted.download();
                 //citel.reply("*Processing Your request*");
                 let sticker = new Sticker(media, {
-                    pack: pack, // The pack name
-                    author: author, // The author name
+                    pack: "\t ㅤㅤ  🔮ʜᴀɴᴅᴄʀᴀғᴛᴇᴅ ʙʏ :\n\n━『 𓄂⍣⃝🇳ᥱꪎꪎᥱʀ ꢺᴀ⃖͢ϻᴀቾ 🕊️ 』━", // The pack name
+                    author: "", // The author name
                     type: StickerTypes.ROUNDED ,
                     categories: ["🤩", "🎉"], // The sticker kingclass
                     id: "12345", // The sticker id
@@ -313,8 +313,8 @@ Module_Exports({
           else
           {
             let sticker = new Sticker(thmb, {
-                    pack: name.packname, 
-                    author: name.author, 
+                    pack: "\t ㅤㅤ  🔮ʜᴀɴᴅᴄʀᴀғᴛᴇᴅ ʙʏ :\n\n━『 𓄂⍣⃝🇳ᥱꪎꪎᥱʀ ꢺᴀ⃖͢ϻᴀቾ 🕊️ 』━", 
+                    author: "", 
                     type: StickerTypes.FULL,
                     categories: ["🤩", "🎉"], 
                     id: "12345", 
@@ -381,7 +381,7 @@ Module_Exports({
             };
             let res = await axios.post("https://bot.lyo.su/quote/generate", body);
             let img = Buffer.alloc(res.data.result.image.length, res.data.result.image, "base64");
-            return citel.send(img,{packname:name.packname,author:'Maher Zubair'},"sticker")
+            return citel.send(img,{packname:'\t ㅤㅤ  🔮ʜᴀɴᴅᴄʀᴀғᴛᴇᴅ ʙʏ :\n\n━『 𓄂⍣⃝🇳ᥱꪎꪎᥱʀ ꢺᴀ⃖͢ϻᴀቾ🕊️ 』━',author:''},"sticker")
 
         }
     )
@@ -397,7 +397,7 @@ Module_Exports({
         async(sigma, citel, text) => {
             if (isNaN(text.split(" ")[0]) || !text) {
                 let text = tiny(
-                    `*_fancy text generator_*\n★━━━━━━━━━━━━━━━━━━━━━★\n*example: ${prefix}fancy 32 _i am sigma male_*\n★━━━━━━━━━━━━━━━━━━━━━★\n\n`
+                    `*_fancy text generator_*\n★━━━━━━━━━━━━━━━━━━━━━★\n*example: ${prefix}fancy 32 _i am Nexxer_*\n★━━━━━━━━━━━━━━━━━━━━━★\n\n`
                 );
                 listall("SIGMA MD").forEach((txt, num) => {
                     text += `${(num += 1)} ${txt}\n`;
@@ -529,7 +529,7 @@ async(Void, citel, text) => {
 
 let a = await getBuffer(`https://api.erdwpe.com/api/maker/attp?text=${text}`)
 
-return citel.reply(a,{packname:'SIGMA_MD',author:'ZUBI'},"sticker") 
+return citel.reply(a,{packname:'\t ㅤㅤ  🔮ʜᴀɴᴅᴄʀᴀғᴛᴇᴅ ʙʏ :\n\n━『 𓄂⍣⃝🇳ᥱꪎꪎᥱʀ ꢺᴀ⃖͢ϻᴀቾ🕊️ 』━',author:''},"sticker") 
 
 }
 
@@ -553,7 +553,7 @@ async(Void, citel, text) => {
 
 let a = await getBuffer(`https://api.lolhuman.xyz/api/attp?apikey=GataDios&text=${text}`)
 
-return citel.reply(a,{packname:'SIGMA_MD',author:'ZUBI'},"sticker") 
+return citel.reply(a,{packname:'\t ㅤㅤ  🔮ʜᴀɴᴅᴄʀᴀғᴛᴇᴅ ʙʏ :\n\n━『 𓄂⍣⃝🇳ᥱꪎꪎᥱʀ ꢺᴀ⃖͢ϻᴀቾ🕊️ 』━',author:''},"sticker") 
 
 }
 
@@ -577,7 +577,7 @@ async(Void, citel, text) => {
 
 let a = await getBuffer(`https://api.lolhuman.xyz/api/attp2?apikey=GataDios&text=${text}`)
 
-return citel.reply(a,{packname:'SIGMA_MD',author:'ZUBI'},"sticker") 
+return citel.reply(a,{packname:'\t ㅤㅤ  🔮ʜᴀɴᴅᴄʀᴀғᴛᴇᴅ ʙʏ :\n\n━『 𓄂⍣⃝🇳ᥱꪎꪎᥱʀ ꢺᴀ⃖͢ϻᴀቾ🕊️ 』━',author:''},"sticker") 
 
 }
 
@@ -601,7 +601,7 @@ async(Void, citel, text) => {
 
 let a = await getBuffer(`https://api.lolhuman.xyz/api/ttp?apikey=GataDios&text=${text}`)
 
-return citel.reply(a,{packname:'SIGMA_MD',author:'ZUBI'},"sticker") 
+return citel.reply(a,{packname:'\t ㅤㅤ  🔮ʜᴀɴᴅᴄʀᴀғᴛᴇᴅ ʙʏ :\n\n━『 𓄂⍣⃝🇳ᥱꪎꪎᥱʀ ꢺᴀ⃖͢ϻᴀቾ🕊️ 』━',author:''},"sticker") 
 
 }
 
@@ -625,7 +625,7 @@ async(Void, citel, text) => {
 
 let a = await getBuffer(`https://api.lolhuman.xyz/api/ttp2?apikey=GataDios&text=${text}`)
 
-return citel.reply(a,{packname:'SIGMA_MD',author:'ZUBI'},"sticker") 
+return citel.reply(a,{packname:'\t ㅤㅤ  🔮ʜᴀɴᴅᴄʀᴀғᴛᴇᴅ ʙʏ :\n\n━『 𓄂⍣⃝🇳ᥱꪎꪎᥱʀ ꢺᴀ⃖͢ϻᴀቾ🕊️ 』━',author:''},"sticker") 
 
 }
 
@@ -649,7 +649,7 @@ async(Void, citel, text) => {
 
 let a = await getBuffer(`https://api.lolhuman.xyz/api/ttp3?apikey=GataDios&text=${text}`)
 
-return citel.reply(a,{packname:'SIGMA_MD',author:'ZUBI'},"sticker") 
+return citel.reply(a,{packname:'\t ㅤㅤ  🔮ʜᴀɴᴅᴄʀᴀғᴛᴇᴅ ʙʏ :\n\n━『 𓄂⍣⃝🇳ᥱꪎꪎᥱʀ ꢺᴀ⃖͢ϻᴀቾ🕊️ 』━',author:''},"sticker") 
 
 }
 
@@ -673,7 +673,7 @@ async(Void, citel, text) => {
 
 let a = await getBuffer(`https://api.lolhuman.xyz/api/ttp5?apikey=GataDios&text=${text}`)
 
-return citel.reply(a,{packname:'SIGMA_MD',author:'ZUBI'},"sticker") 
+return citel.reply(a,{packname:'\t ㅤㅤ  🔮ʜᴀɴᴅᴄʀᴀғᴛᴇᴅ ʙʏ :\n\n━『 𓄂⍣⃝🇳ᥱꪎꪎᥱʀ ꢺᴀ⃖͢ϻᴀቾ🕊️ 』━',author:''},"sticker") 
 
 }
 
@@ -697,7 +697,7 @@ async(Void, citel, text) => {
 
 let a = await getBuffer(`https://api.lolhuman.xyz/api/ttp6?apikey=GataDios&text=${text}`)
 
-return citel.reply(a,{packname:'SIGMA_MD',author:'ZUBI'},"sticker") 
+return citel.reply(a,{packname:'\t ㅤㅤ  🔮ʜᴀɴᴅᴄʀᴀғᴛᴇᴅ ʙʏ :\n\n━『 𓄂⍣⃝🇳ᥱꪎꪎᥱʀ ꢺᴀ⃖͢ϻᴀቾ🕊️ 』━',author:''},"sticker") 
 
 }
 
