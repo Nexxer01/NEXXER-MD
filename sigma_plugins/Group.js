@@ -613,14 +613,14 @@ Module_Exports({
                 pfp = await botpic();
             }
             const profile = `
-┏━━⟪⟪ ${mztit} ⟫━⦿	    
+┏━━⟪⟪ ${mztit} ⟫━✥	    
 ┃✗ *_•ᴘʀᴏғɪʟᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ•_* 
 ┃✗ *_•ᴜsᴇʀɴᴀᴍᴇ•_* ${citel.pushName}
 ┃✗ *_•ʙɪᴏ•_* ${bioo}
 ┃✗ *_•ʀᴏʟᴇ•_* ${role}
 ┃✗ *_•ʟᴇᴠᴇʟ•_* ${userq.level}
 ┃✗ *_•ᴛᴏᴛᴀʟ ᴍᴇssᴀɢᴇ•_* ${ttms}
-┃✗ *_•ᴘᴏᴡᴇʀᴇᴅ ʙʏ• sɪɢᴍᴀ ᴹᴰ_*
+┃✗ *_•ᴘᴏᴡᴇʀᴇᴅ ʙʏ• N ᴇ x x ᴇ ʀ 様_*
 ┗━━━━━━━━━━⦿
 `;
             
@@ -1291,7 +1291,7 @@ Module_Exports({
 ┃✗ *•ᴇxᴘ•* ${sck1.xp} / ${Levels.xpFor(sck1.level + 1)}
 ┃✗ *•ʀᴏʟᴇ•* *${role}*
 ┃✗ *•ᴇɴᴊᴏʏ ʏᴏᴜʀ ᴅᴀʏ🎃✨•* 
-┗━━━━━━━━━━⦿\n ${scap}`   }, { quoted: citel });
+┗━━━━━━━━━━⦿\n *⤹★ᴘᴏᴡᴇʀᴇᴅ ʙʏ★⤸ N ᴇ x x ᴇ ʀ ⁷⁷⁷*`   }, { quoted: citel });
 		    }
 	    }
 	})
