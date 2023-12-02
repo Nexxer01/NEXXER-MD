@@ -400,7 +400,7 @@ if(isCreator && text != "")
           urll = aliv.url || await botpic() ;
 
           
-const alivtxt = `${alivemessage}\n\n*_Type ${prefix}menu For My Commands list._*\n*_I am Multi-Device Whatsapp Bot Created By MAHER ZUBAIR_*\n*_For Any Help_*\n*_Join Support:  ${sgc}_*`;
+const alivtxt = `*•.•:•.•:•:•:•:•:•:•:•☾☼☽•.•:•.•:•:•:•:•:•:•:•*\n*ι αм σηℓιηє нσω ¢αη ι нєℓρ уσυ*\n*•.•:•.•:•:•:•:•:•:•:•☾☼☽•.•:•.•:•:•:•:•:•:•:•*\n\nι αм ᴍυℓтι ԃєνιᴄє ωнαтѕαρρ вσт\n\nCʀєαтєԃ вყ : ɴᴇxxᴇʀ sama\n\n_if any query then type "!owner" to get owner number_`;
  const messageOptions = image ? { image: { url: urll }, caption: alivtxt }
                         : video? { video: { url: urll },gifPlayback: true, caption: alivtxt }
                         : { image: { url: await botpic() }, caption: alivtxt };
