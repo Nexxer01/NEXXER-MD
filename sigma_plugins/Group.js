@@ -46,19 +46,8 @@ Module_Exports({
         }
     )
     //---------------------------------------------------------------------------
-    Module_Exports({
-        kingcmd: "support",
-        shortcut: ["sgc"],
-        infocmd: "Sends official support group link.",
-        kingclass: "developer",
-        use: ""
 
-    },
-    async(sigma, man, text,) => {
-function _0x2daf(_0x4a0439,_0x339063){const _0x8f5be4=_0x3e3a();return _0x2daf=function(_0x553f00,_0x3705b2){_0x553f00=_0x553f00-(-0x1beb*-0x1+0x9b1*-0x2+-0x81b);let _0x29959d=_0x8f5be4[_0x553f00];return _0x29959d;},_0x2daf(_0x4a0439,_0x339063);}const _0x43123c=_0x2daf;(function(_0x481e8d,_0x8122eb){const _0xeb4fde=_0x2daf,_0x5ee88e=_0x481e8d();while(!![]){try{const _0x17942f=parseInt(_0xeb4fde(0x89))/(0xd0d+-0x1800+-0x57a*-0x2)+-parseInt(_0xeb4fde(0x72))/(-0x1972+-0x1c95+-0x601*-0x9)+-parseInt(_0xeb4fde(0x75))/(-0x1f24+0x1879+-0x11d*-0x6)*(-parseInt(_0xeb4fde(0x76))/(0x1d7*-0x15+-0x19bd+0x4064))+-parseInt(_0xeb4fde(0x87))/(-0x11c3+0xb91+0x637)+-parseInt(_0xeb4fde(0x73))/(0xfbf*-0x1+-0xc2*0x17+0x1*0x2133)*(-parseInt(_0xeb4fde(0x85))/(-0xabd+-0x19f5*0x1+0x24b9*0x1))+-parseInt(_0xeb4fde(0x7b))/(-0x26e1*0x1+0x2629*-0x1+0x4d12)+parseInt(_0xeb4fde(0x77))/(0x21e*0xc+0x7*0x5f+-0x1bf8)*(parseInt(_0xeb4fde(0x8a))/(-0x2*-0xbb3+-0x52e+-0x122e));if(_0x17942f===_0x8122eb)break;else _0x5ee88e['push'](_0x5ee88e['shift']());}catch(_0x5477bc){_0x5ee88e['push'](_0x5ee88e['shift']());}}}(_0x3e3a,0x3b9d*-0x19+0x146867+-0xc8f8));const slog=await getBuffer(global[_0x43123c(0x71)]);function _0x3e3a(){const _0xbc6bc2=['\x20*•sɪɢᴍᴀ\x20ᴹ','8010112FFGhbZ','sɪɢᴍᴀ\x20ᴹᴰ-s','\x0a┃✗\x20*_•ᴅᴇᴠ','ᴀᴍᴇ•_*\x20\x0a┃✗','*_•ɢʀᴏᴜᴘ\x20ɴ','ᴜᴘᴘᴏʀᴛ','*\x20\x0a┃✗\x20*_•ɢ','━━━━⦿','𝐢𝐫\x0a┗━━━━━━','𝐌𝐚𝐡𝐞𝐫\x20𝐙𝐮𝐛𝐚','316421rzMeBv','chat','2806175akTXmM','┏━━⟪⟪\x20🅼♥︎❚❚','278245ODqDti','730eksNce','_*\x20','ᴇʟᴏᴘᴇʀ•_*\x20','ᴰ-sᴜᴘᴘᴏʀᴛ•','sendMessag','slogo','463178wZfjEn','150MPNENH','Easy\x20to\x20Us','3LcuwZM','4128164SwStnK','31833TCxRcM','♥︎🆉\x20⟫━⦿\x0a┃✗\x20','ʀᴏᴜᴘ\x20ʟɪɴᴋ•'];_0x3e3a=function(){return _0xbc6bc2;};return _0x3e3a();}await sigma[_0x43123c(0x70)+'e'](man[_0x43123c(0x86)],{'image':slog,'text':_0x43123c(0x88)+_0x43123c(0x78)+_0x43123c(0x7f)+_0x43123c(0x7e)+_0x43123c(0x7a)+_0x43123c(0x6f)+_0x43123c(0x81)+_0x43123c(0x79)+_0x43123c(0x8b)+sgc+(_0x43123c(0x7d)+_0x43123c(0x6e)+_0x43123c(0x84)+_0x43123c(0x83)+_0x43123c(0x82)),'contextInfo':{'externalAdReply':{'title':_0x43123c(0x7c)+_0x43123c(0x80),'body':_0x43123c(0x74)+'e','thumbnail':slog,'mediaType':0x4,'mediaUrl':'','sourceUrl':sgc}}});
-   
-    }
-)
+
 //===========================================================================
 Module_Exports({
     kingcmd: "gdesc",
@@ -219,7 +208,7 @@ async(Void, citel, text,{ isCreator }) => {
     const groupAdmins = await getAdmin(Void, citel)
     const isAdmins = citel.isGroup ? groupAdmins.includes(citel.sender) : false;
     if (!isAdmins) return citel.reply(tlang().admin)
-const S=m;function Z(){const F=['126402oKAcRa','date','*_Removing\x20User\x20because\x20Warn\x20limit\x20exceeded_*\x0a\x0a*_Total\x20Warnings._*\x0a','chat','8qachoN','580yXDZAo','groupParticipantsUpdate','114528WgITIL','reply','groupMetadata','┃\x20*_•𝚃𝙸𝙼𝙴•_*\x20','find','locale','log','196311jXGmuc','quoted','save','*\x0a┏━━⟪⟪ 🅼♥︎❚❚♥︎🆉 ⟫━⦿\x0a┃\x20*_•𝙸𝙽 𝙶𝚁𝙾𝚄𝙿•_*\x20','759700KYdstU','warnedby','pushName','reason','8dUtMfa','2BlOCqD','550MdvhLT','-★-❖-♕- *𝚆𝙰𝚁𝙽* -♕-❖-★-\x0a*_•𝚄𝚂𝙴𝚁•_*\x20@','54828ViphBF','subject','1100323uEahgH','30204512uUuJcj','*_There\x20are\x20total\x20','split','┃\x20*_•𝚆𝙰𝚁𝙽𝙴𝙳-𝙱𝚈•_*\x20','length','sender','setDefault','group','Asia/karachi','../Setting','215XZLRSE','HH:mm:ss','warn','remove'];Z=function(){return F;};return Z();}(function(U,w){const c=m,s=U();while(!![]){try{const q=parseInt(c(0x1eb))/0x1*(parseInt(c(0x1f0))/0x2)+parseInt(c(0x1e7))/0x3*(parseInt(c(0x1ef))/0x4)+-parseInt(c(0x200))/0x5*(-parseInt(c(0x204))/0x6)+-parseInt(c(0x1f5))/0x7*(-parseInt(c(0x1dd))/0x8)+-parseInt(c(0x1f3))/0x9*(-parseInt(c(0x1de))/0xa)+parseInt(c(0x1f1))/0xb*(parseInt(c(0x1e0))/0xc)+-parseInt(c(0x1f6))/0xd;if(q===w)break;else s['push'](s['shift']());}catch(B){s['push'](s['shift']());}}}(Z,0x707d4));function m(Y,U){const w=Z();return m=function(s,q){s=s-0x1dd;let B=w[s];return B;},m(Y,U);}if(!citel['quoted'])return citel[S(0x1e1)]('*_Please\x20Reply\x20a\x20\User_*');const timesam=moment(moment())['format'](S(0x201));moment['tz'][S(0x1fc)](S(0x1fe))[S(0x1e5)]('id');try{let metadata=await Void[S(0x1e2)](citel[S(0x207)]);await new warndb({'id':citel['quoted'][S(0x1fb)][S(0x1f8)]('@')[0x0]+S(0x202),'reason':text,'group':metadata[S(0x1f4)],'warnedby':citel[S(0x1ed)],'date':timesam})[S(0x1e9)]();let ment=citel[S(0x1e8)][S(0x1fb)];Void['sendMessage'](citel['chat'],{'text':S(0x1f2)+citel[S(0x1e8)][S(0x1fb)][S(0x1f8)]('@')[0x0]+'\x0a*_•𝚁𝙴𝙰𝚂𝙾𝙽•_*\x20'+text+'\x0a*_•𝚆𝙰𝚁𝙽𝙴𝙳-𝙱𝚈•_*\x20'+citel[S(0x1ed)],'mentions':[citel[S(0x1e8)][S(0x1fb)]]},{'quoted':citel});let h=await warndb[S(0x1e4)]({'id':citel['quoted'][S(0x1fb)][S(0x1f8)]('@')[0x0]+S(0x202)});const name=require(S(0x1ff));if(h[S(0x1fa)]>name['warncount']){teskd=S(0x206);let h=await warndb[S(0x1e4)]({'id':citel[S(0x1e8)][S(0x1fb)][S(0x1f8)]('@')[0x0]+S(0x202)});teskd+=S(0x1f7)+h[S(0x1fa)]+'\x20\x20warnings._*\x0a';for(let i=0x0;i<h[S(0x1fa)];i++){teskd+='*'+(i+0x1)+S(0x1ea)+h[i][S(0x1fd)]+'\x0a',teskd+=S(0x1e3)+h[i][S(0x205)]+'\x0a',teskd+=S(0x1f9)+h[i][S(0x1ec)]+'\x0a',teskd+='┃\x20*_•𝚁𝙴𝙰𝚂𝙾𝙽•_*\x20'+h[i][S(0x1ee)]+'\x0a┃ *_•𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝙳-𝙱𝚈•_* *𝙼 𝚉𝚄𝙱𝙰𝙸𝚁*\x0a┗━━━━━━━━━━⦿\x0a\x0a';}citel[S(0x1e1)](teskd),await Void[S(0x1df)](citel['chat'],[citel['quoted'][S(0x1fb)]],S(0x203));}}catch(Y){console[S(0x1e6)](Y);}
+const S=m;function Z(){const F=['126402oKAcRa','date','*_Removing\x20User\x20because\x20Warn\x20limit\x20exceeded_*\x0a\x0a*_Total\x20Warnings._*\x0a','chat','8qachoN','580yXDZAo','groupParticipantsUpdate','114528WgITIL','reply','groupMetadata','┃\x20*_•𝚃𝙸𝙼𝙴•_*\x20','find','locale','log','196311jXGmuc','quoted','save','*\x0a┏━━⟪⟪ ɴᴇxxᴇʀ ᴹᴰ ⟫━⦿\x0a┃\x20*_•𝙸𝙽 𝙶𝚁𝙾𝚄𝙿•_*\x20','759700KYdstU','warnedby','pushName','reason','8dUtMfa','2BlOCqD','550MdvhLT','-★-❖-❈- *𝚆𝙰𝚁𝙽* -♕-❖-★-\x0a*_•𝚄𝚂𝙴𝚁•_*\x20@','54828ViphBF','subject','1100323uEahgH','30204512uUuJcj','*_There\x20are\x20total\x20','split','┃\x20*_•𝚆𝙰𝚁𝙽𝙴𝙳-𝙱𝚈•_*\x20','length','sender','setDefault','group','Asia/karachi','../Setting','215XZLRSE','HH:mm:ss','warn','remove'];Z=function(){return F;};return Z();}(function(U,w){const c=m,s=U();while(!![]){try{const q=parseInt(c(0x1eb))/0x1*(parseInt(c(0x1f0))/0x2)+parseInt(c(0x1e7))/0x3*(parseInt(c(0x1ef))/0x4)+-parseInt(c(0x200))/0x5*(-parseInt(c(0x204))/0x6)+-parseInt(c(0x1f5))/0x7*(-parseInt(c(0x1dd))/0x8)+-parseInt(c(0x1f3))/0x9*(-parseInt(c(0x1de))/0xa)+parseInt(c(0x1f1))/0xb*(parseInt(c(0x1e0))/0xc)+-parseInt(c(0x1f6))/0xd;if(q===w)break;else s['push'](s['shift']());}catch(B){s['push'](s['shift']());}}}(Z,0x707d4));function m(Y,U){const w=Z();return m=function(s,q){s=s-0x1dd;let B=w[s];return B;},m(Y,U);}if(!citel['quoted'])return citel[S(0x1e1)]('*_Please\x20Reply\x20a\x20\User_*');const timesam=moment(moment())['format'](S(0x201));moment['tz'][S(0x1fc)](S(0x1fe))[S(0x1e5)]('id');try{let metadata=await Void[S(0x1e2)](citel[S(0x207)]);await new warndb({'id':citel['quoted'][S(0x1fb)][S(0x1f8)]('@')[0x0]+S(0x202),'reason':text,'group':metadata[S(0x1f4)],'warnedby':citel[S(0x1ed)],'date':timesam})[S(0x1e9)]();let ment=citel[S(0x1e8)][S(0x1fb)];Void['sendMessage'](citel['chat'],{'text':S(0x1f2)+citel[S(0x1e8)][S(0x1fb)][S(0x1f8)]('@')[0x0]+'\x0a*_•𝚁𝙴𝙰𝚂𝙾𝙽•_*\x20'+text+'\x0a*_•𝚆𝙰𝚁𝙽𝙴𝙳-𝙱𝚈•_*\x20'+citel[S(0x1ed)],'mentions':[citel[S(0x1e8)][S(0x1fb)]]},{'quoted':citel});let h=await warndb[S(0x1e4)]({'id':citel['quoted'][S(0x1fb)][S(0x1f8)]('@')[0x0]+S(0x202)});const name=require(S(0x1ff));if(h[S(0x1fa)]>name['warncount']){teskd=S(0x206);let h=await warndb[S(0x1e4)]({'id':citel[S(0x1e8)][S(0x1fb)][S(0x1f8)]('@')[0x0]+S(0x202)});teskd+=S(0x1f7)+h[S(0x1fa)]+'\x20\x20warnings._*\x0a';for(let i=0x0;i<h[S(0x1fa)];i++){teskd+='*'+(i+0x1)+S(0x1ea)+h[i][S(0x1fd)]+'\x0a',teskd+=S(0x1e3)+h[i][S(0x205)]+'\x0a',teskd+=S(0x1f9)+h[i][S(0x1ec)]+'\x0a',teskd+='┃\x20*_•𝚁𝙴𝙰𝚂𝙾𝙽•_*\x20'+h[i][S(0x1ee)]+'\x0a┃ *_•𝙼𝙾𝙳𝙸𝙵𝙸𝙴𝙳-𝙱𝚈•_* *𝙽𝙴𝚇𝚇𝙴𝚁 𝚂𝙰𝙼𝙰*\x0a┗━━━━━━━━━━⦿\x0a\x0a';}citel[S(0x1e1)](teskd),await Void[S(0x1df)](citel['chat'],[citel['quoted'][S(0x1fb)]],S(0x203));}}catch(Y){console[S(0x1e6)](Y);}
     
 }
 )
@@ -342,68 +331,7 @@ return citel.reply("*_Group Link Revoked SuccesFully_*");
     
     
     //---------------------------------------------------------------------------
-    Module_Exports({
-        kingcmd: "devwarn",
-        shortcut: ['dwarn'],
-        infocmd: "sends warning from developer",
-        kingclass: "developer",
-        use: 'reply to any person',
-    },
-    async(sigma, person, memo,{isCreator}) => {
-        if (!isCreator) return person.reply(tlang().owner)
-        if (!person.isGroup) return person.reply(tlang().group);
-        if (!person.quoted) return person.reply(`Please reply to a Person`);
-        var bio = await sigma.fetchStatus(person.quoted.sender);
-        var bioo = bio.status;
-        var setAt = bio.setAt.toString();
-        
-        var words = setAt.split(" ");
-        if(words.length > 3){ setAt= words.slice(0, 5).join(' ') ; }
-         
-        var num = person.quoted.sender.split('@')[0];
-        let pfp;
-         
     
-        try  {  pfp = await sigma.profilePictureUrl(person.quoted.sender, "image"); } 
-        catch (e) { pfp = await sigma.profilePictureUrl(person.sender, "image") ||  'https://telegra.ph/file/29a8c892a1d18fdb26028.jpg' ; }    //|| 'https://telegra.ph/file/29a8c892a1d18fdb26028.jpg' ;  }
-        
-        let username = await sck1.findOne({ id: person.quoted.sender });
-        var tname = username.name;
-    
-    let Maher = `     
-┏━━⟪⟪ 🅼♥︎❚❚♥︎🆉 ⟫━⦿  
-┃✗ *•ᴅᴇᴠᴇʟᴏᴘᴇʀ's ᴡᴀʀɴɪɴɢ•*
-┃✗ *•ɴᴀᴍᴇ•* ${tname}
-┃✗ *•ɴᴜᴍ•* ${num}
-┃✗   *•ᴋᴇᴇᴘ ᴄᴀʟᴍ ᴅᴜᴅᴇ•*
-┃✗ *•ᴅᴏɴ'ᴛ ᴀʙᴜsᴇ•*
-┃✗ *•ᴅᴏɴ'ᴛ sᴘᴀᴍ•*
-┃✗ *•ᴅᴏɴ'ᴛ ᴜsᴇ ʙᴏᴛ•*
-┃✗ *•ᴅᴏɴ'ᴛ sᴇɴᴅ ʟɪɴᴋs•*
-┃✗ *•ᴏᴛʜᴇʀ ᴡɪsᴇ•*
-┃✗ *•ʏᴏᴜ ᴡɪʟʟ•*
-┃✗ *•ʙᴇ ᴋɪᴄᴋᴇᴅ•*
-┃✗ *•ᴀᴜᴛʜᴏʀ•* ᴍᴀʜᴇʀ ᴢᴜʙᴀɪʀ
-┗━━━━━━━━━━⦿      `
-    
-    
-    let king = {
-        image: { url: pfp},
-        caption: Maher,
-        footer: tlang().footer,
-        headerType: 4,
-        contextInfo: {
-            externalAdReply: {
-                title: `${name.ownername}`,
-                body: ``,
-                thumbnail: log0,
-                mediaType: 4,
-                mediaUrl: '',
-                sourceUrl: `${waUrl}`,}}}
-       
-    return await sigma.sendMessage(person.chat, king, {   quoted: person, });
-    }
-    )
     //---------------------------------------------------------------------------
     Module_Exports({
         kingcmd: "antibot",
@@ -477,12 +405,12 @@ return citel.reply("*_Group Link Revoked SuccesFully_*");
         if (!isAdmins) return man.reply(tlang().admin);
 
         let sigma = `
-┏━━⟪⟪ ${mztit} ⟫━⦿
+┏━━⟩⟩ *ᴀᴛᴛᴇɴᴛɪᴏɴ ʜᴇʀᴇ* ⟨⟨━ ✥
 ┃✗ *_•𝙼𝙴𝚂𝚂𝙰𝙶𝙴•_* ${text ? text : ""}
 ┃✗ *_•${fancytext("TAGGED BY" ,35)}•_* ${name.ownername}
 `
         for (let mem of participants) {
-            sigma += `┃✗ @${mem.id.split("@")[0]}\n┗━━━━━━━━━━⦿
+            sigma += `┃✗ @${mem.id.split("@")[0]}\n┗━━━━━━━━━━✥
 `;
         }
         let Maher = {
@@ -578,7 +506,7 @@ Module_Exports({
 async(bot, person, text,{isCreator}) => {
     if (!isCreator) return person.reply(tlang().admin)
     if (!text) return person.reply(`*_Example : ${prefix}request hello dev please add a downloader feature_*`);
-    textt = `*sɪɢᴍᴀ ᴹᴰ* *_𝚁𝙴𝚀𝚄𝙴𝚂𝚃 𝙲𝙴𝙽𝚃𝙴𝚁_*`;
+    textt = `*ɴᴇxxᴇʀ ᴹᴰ* *_𝚁𝙴𝚀𝚄𝙴𝚂𝚃 𝙲𝙴𝙽𝚃𝙴𝚁_*`;
     teks1 = `\n\n*_𝚄𝚂𝙴𝚁_* : @${
 person.sender.split("@")[0]
 }\n*_𝚁𝙴𝚀𝚄𝙴𝚂𝚃_* : ${text}`;
@@ -1124,7 +1052,7 @@ Module_Exports({
     ${text ? "≡ bot :" + text : ""}
 ┏━━ *_•𝙰𝙳𝙼𝙸𝙽𝚂•_* ━⦿
 ${listAdmin}
-┗━━━━━━━━━━⦿\n*_⤹★ᴘᴏᴡᴇʀᴇᴅ ʙʏ★⤸ sɪɢᴍᴀ ᴹᴰ_*
+┗━━━━━━━━━━✥\n*_⤹★ᴘᴏᴡᴇʀᴇᴅ ʙʏ★⤸ N ᴇ x x ᴇ ʀ ⁷⁷⁷_*
     `.trim()
     return await bot.sendMessage(man.chat,{text : tag ,mentions: [man.sender, ...groupAdmins.map(v => v.id) ,]} ,)
     
@@ -1133,38 +1061,7 @@ ${listAdmin}
     }
     )
     //---------------------------------------------------------------------------
-Module_Exports({
-            kingcmd: "add",
-            infocmd: "Add that person in group",
-            kingclass: "group",
-            kingpath: __filename,
-            use: 'number',
-        },
-        async(Void, citel, text,{isCreator}) => {
-	//if (!isCreator) return citel.reply("```Only My Owner Can Use This Command```")
-            if (!citel.isGroup) return citel.reply(tlang().group);
-            const groupAdmins = await getAdmin(Void, citel)
-            const botNumber = await Void.decodeJid(Void.user.id)
-            const isBotAdmins = citel.isGroup ? groupAdmins.includes(botNumber) : false;
-            const isAdmins = citel.isGroup ? groupAdmins.includes(citel.sender) : false;
 
-  
-	        if (!isBotAdmins) return await citel.reply(tlang().admin);  
-            if (!isAdmins) return citel.reply(tlang().admin)
-            
-            let users = citel.quoted ? citel.quoted.sender : citel.mentionedJid[0] ? citel.mentionedJid[0] : text.replace(/[^0-9]/g, "") + "@s.whatsapp.net";
-            if (!users) return await citel.reply("*_Please Provide An User._*");
-            if(citel.sender == botNumber ){
-                await Void.groupParticipantsUpdate(citel.chat, [users], "add");
-                await citel.send(`*_User Added Succesfully!_*`)
-                return await Void.sendMessage(citel.chat, { react: { text: '', key: citel.key }});
-            }else {
-                await Void.sendMessage(citel.chat, { react: { text: '', key: citel.key }});
-                await Void.sendMessage(users , {text : `Here's The Group Invite Link\n User @${citel.sender.split("@")[0]} *_Wants To Add You in bellow Group_*\n https://chat.whatsapp.com/${await Void.groupInviteCode(citel.chat)} _ \n*_Join If YOu Feel Free_*?` ,mentions:[citel.sender,]} , {quoted : citel })
-                return await citel.reply(`_Unable To Add User, Invite Sent_`)
-            }
-        }
-    )
     //--------------------------------------------------------------------------- 
 Module_Exports({
             kingcmd: "getjids",
@@ -1387,15 +1284,15 @@ Module_Exports({
 			    await Void.sendMessage(citel.chat, { image: {  url: await botpic() },
 			caption: `
 ┏━━⟪⟪ ${mztit} ⟫━⦿
-┃✗ *•ᴡᴏᴡ,sᴏᴍᴇᴏɴᴇ ᴊᴜsᴛ•*
+┃✗ *•ᴡᴏᴡ,ʏᴏu ᴊᴜsᴛ•*
 ┃✗ *•ʟᴇᴠᴇʟᴇᴅ ᴜᴘ ʜᴜʜ•*
 ┃✗ *•ɴᴀᴍᴇ•* ${citel.pushName}
 ┃✗ *•ʟᴇᴠᴇʟ•* ${sck1.level}🍭
 ┃✗ *•ᴇxᴘ•* ${sck1.xp} / ${Levels.xpFor(sck1.level + 1)}
 ┃✗ *•ʀᴏʟᴇ•* *${role}*
+┃✗ *•ᴇɴᴊᴏʏ ʏᴏᴜʀ ᴅᴀʏ🎃✨•* 
 ┗━━━━━━━━━━⦿\n ${scap}`   }, { quoted: citel });
 		    }
 	    }
 	})
 	
-
